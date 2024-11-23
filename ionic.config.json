@@ -1,0 +1,7 @@
+{
+  "name": "QuickFormUI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
